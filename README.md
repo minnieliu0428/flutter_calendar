@@ -11,12 +11,12 @@
 
 登入頁
 
-![image](https://github.com/minnieliu0428/flutter_calendar/blob/master/login.png)
+![image](https://github.com/minnieliu0428/flutter_calendar/blob/master/login.png = 360x640)
 
 列表頁
 
-![image](https://github.com/minnieliu0428/flutter_calendar/blob/master/list.png)
+![image](https://github.com/minnieliu0428/flutter_calendar/blob/master/list.png = 360x640)
 
 預約頁
 
-![image](https://github.com/minnieliu0428/flutter_calendar/blob/master/calendar.png)
+![image](https://github.com/minnieliu0428/flutter_calendar/blob/master/calendar.png = 360x640)
