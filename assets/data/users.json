@@ -1,0 +1,20 @@
+[
+  {
+    "account":"test",
+    "password":"12345",
+    "name":"TestUser",
+    "phone": ""
+  },
+  {
+    "account":"minnie123",
+    "password":"123",
+    "name":"Minnie",
+    "phone": ""
+  },
+  {
+    "account":"weily456",
+    "password":"456",
+    "name":"Weily",
+    "phone": ""
+  }
+]

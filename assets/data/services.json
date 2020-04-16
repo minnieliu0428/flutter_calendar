@@ -1,0 +1,26 @@
+[
+  {
+    "title":"Wash",
+    "cost":200,
+    "hour":0,
+    "minute": 30
+  },
+  {
+    "title":"Haircut",
+    "cost":500,
+    "hour":1,
+    "minute": 0
+  },
+  {
+    "title":"Perm",
+    "cost":700,
+    "hour":2,
+    "minute": 30
+  },
+  {
+    "title":"Hair Coloring",
+    "cost":700,
+    "hour":3,
+    "minute": 0
+  }
+]
